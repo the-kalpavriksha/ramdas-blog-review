@@ -45,7 +45,12 @@ To manage growing infrastructure complexity, a lightweight monitoring system cal
 This portal helps monitor **AWS ECS clusters across multiple environments**, improving operational visibility and system reliability.
 
 ---
+### Dashboard Example
 
+![HeartBeat Monitoring Dashboard](../assets/1749367019972.jpeg)
+
+This dashboard shows service health, running tasks, CPU utilization, memory usage, and alerts for ECS clusters.
+---
 ## Reference
 
 Original LinkedIn Blog:  
