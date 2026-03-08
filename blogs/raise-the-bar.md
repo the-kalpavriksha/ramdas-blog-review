@@ -58,10 +58,3 @@ https://www.linkedin.com/posts/ramramdas_raisethebar-rtb-nocode-activity-7337377
 
 ---
 
-## Feedback Section
-
-(Reviewer Comments)
-
--
--
--
