@@ -96,7 +96,10 @@ This architecture pattern helps credit platforms:
 It is particularly relevant for **embedded lending, supply-chain finance, and digital credit platforms**.
 
 ---
+## Architecture Diagram
 
+![Credit Microservices Architecture](../assests/1764920461644.jpg)
+---
 ## Reference
 
 Original LinkedIn Post:  
