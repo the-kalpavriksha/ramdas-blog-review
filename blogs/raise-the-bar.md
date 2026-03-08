@@ -47,7 +47,7 @@ This portal helps monitor **AWS ECS clusters across multiple environments**, imp
 ---
 ### Dashboard Example
 
-![HeartBeat Monitoring Dashboard](../assets/1749367019972.jpeg)
+![HeartBeat Monitoring Dashboard]([../assets/1749367019972.jpeg](https://github.com/the-kalpavriksha/ramdas-blog-review/blob/87aa96537493654bff6b66443bb37fa1fdd1e044/assests/1749367019972.jpg))
 
 This dashboard shows service health, running tasks, CPU utilization, memory usage, and alerts for ECS clusters.
 ---
