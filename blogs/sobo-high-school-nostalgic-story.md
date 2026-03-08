@@ -8,7 +8,7 @@
 
 ## A Glimpse of SoBo Streets
 
-![SoBo Street Scene with Pigeons]([(https://github.com/the-kalpavriksha/ramdas-blog-review/blob/f628d65002fd2e7e69e880e2dcfc6a6b2547ffda/assests/1768015876959.jpg)](https://github.com/the-kalpavriksha/ramdas-blog-review/blob/f628d65002fd2e7e69e880e2dcfc6a6b2547ffda/assests/1768015876959.jpg))
+![SoBo Street Scene with Pigeons](..assests/1768015876959.jpg)
 
 A typical street scene from South Bombay (SoBo), where pigeons gather near busy intersections.  
 Scenes like this are a familiar part of the city's everyday rhythm and often trigger memories of school days and childhood experiences.
