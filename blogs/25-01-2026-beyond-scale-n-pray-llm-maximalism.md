@@ -101,8 +101,3 @@ Rather than relying on **Scale & Pray**, the future of AI should focus on **worl
 
 Original LinkedIn Post  
 https://www.linkedin.com/posts/ramramdas_scalenpray-ai-worldmodel-activity-7421071593629679616-NlpW
-
-
--
--
--
