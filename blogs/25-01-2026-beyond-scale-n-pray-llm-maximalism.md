@@ -1,7 +1,6 @@
 # Beyond #ScaleNPray: Why I Don’t Buy LLM Maximalism
 
 **Author:** Ram Ramdas  
-**Date:** 2026-03-09  
 **Source:** LinkedIn Post  
 
 ---
