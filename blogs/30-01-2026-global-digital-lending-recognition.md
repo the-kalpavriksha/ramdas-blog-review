@@ -64,7 +64,7 @@ Across the world, lending platforms are evolving with:
 Reports like the Global Digital Lending study help organizations understand these trends and benchmark their technology platforms.
 
 ---
-![Global Digital Lending Vendors & Landscape Report]()
+![Global Digital Lending Vendors & Landscape Report](../assests/1769743837671.jpg)
 ---
 
 ## Reference
